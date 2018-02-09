@@ -1,0 +1,3 @@
+use http-server and bootstrap to build a wicked cool site. Use your imagination. Overwrite some of the bootstrap css by injecting 
+a css file that selects and overwrites some of the bootstrap classes, or you can add classes to your html.
+Be sure to name your file index.html
