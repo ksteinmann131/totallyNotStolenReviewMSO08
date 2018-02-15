@@ -1,0 +1,23 @@
+{
+  "name": "totallynotstolenreviewmso08",
+  "version": "1.0.0",
+  "description": "",
+  "main": "array.js",
+  "scripts": {
+    "test": "mocha --reporter progress *Test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ksteinmann131/totallyNotStolenReviewMSO08.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ksteinmann131/totallyNotStolenReviewMSO08/issues"
+  },
+  "homepage": "https://github.com/ksteinmann131/totallyNotStolenReviewMSO08#readme",
+  "devDependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^5.0.1"
+  }
+}
